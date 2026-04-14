@@ -33,36 +33,23 @@ I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Spec
 
 <div align="center">
 
-**Spatial Computing & Design**  
+| **Spatial Computing & Design** | **Web & Development Foundation** |
+|------------------------------|----------------------------------|
+| <img src="https://skillicons.dev/icons?i=unity,blender,figma,ps,ai" /> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" /> |
+
 <br>
-<img src="https://skillicons.dev/icons?i=unity,blender,figma,ps,ai" alt="Spatial computing and design icons" />
 
-<br><br>
+| **Programming & Systems** | **Data Science & AI** |
+|--------------------------|----------------------|
+| <img src="https://skillicons.dev/icons?i=c,java,python,linux" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> |
 
-**Web & Development Foundation**  
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" alt="Web and development icons" />
 
-<br><br>
-
-**Programming & Systems**  
-<br>
-<img src="https://skillicons.dev/icons?i=c,java,python,linux" alt="Programming and systems icons" />
-
-<br><br>
-
-**Data Science & AI**  
-<br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Data science and AI icons" />
-
-<br><br>
-
-**Databases & Tools**  
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database and tools icons" />
+| **Databases & Tools** |
+|----------------------|
+| <img src="https://skillicons.dev/icons?i=mysql,firebase" /> |
 
 </div>
-
 ---
 
 ## 🔭 About Me
