@@ -24,9 +24,10 @@ I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Spec
 - 🎓 **Currently:** Pursuing **MSc in Human-Computer Interaction** at **University College Dublin**.
 - 🔭 **Working on:** Immersive VR environments and studying accessibility in XR.
 - 🌱 **Learning:** Advanced Interaction Design in **Unity** & **Unreal Engine 5**.
-- 💬 **Ask me about:** Prototyping, C#, User Research, and bridging the gap between Dev & Design.
-- ⚡ **Fun fact:** I treat code like a design tool—sometimes the best way to sketch an idea is with a script!
-
+  
+- 🔸 **Location:** Dublin, Ireland  
+- 🔸 **Currently:** MSc Human-Computer Interaction, University College Dublin  
+- 🔸 **Focus areas:** AR/VR development, Spatial UX, User research, Accessibility
 ---
 
 ### 🛠️ The Toolkit
@@ -38,13 +39,6 @@ I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Spec
 | <img src="https://skillicons.dev/icons?i=unity,blender,figma,ps,ai" /> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" /> | <img src="https://skillicons.dev/icons?i=python,java,c,linux,mysql,firebase,pytorch,tensorflow" /> |
 
 </div>
-
----
-
-## 🔭 About Me
-- 🔸 **Location:** Dublin, Ireland  
-- 🔸 **Currently:** MSc Human-Computer Interaction, University College Dublin  
-- 🔸 **Focus areas:** AR/VR development, Spatial UX, User research, Accessibility
 
 ---
 
