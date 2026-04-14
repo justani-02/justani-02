@@ -1,42 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ananya Chandraker</h1>
-<h3 align="center">Creative & Imaginative || Web Developer || Graphic designer|| Leadership || Enthusiast—>META</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=400&section=header&text=Ananya%20Chandraker&fontSize=64&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=MSc%20HCI%20@%20UCD%20%7C%20AR/VR%20Dev%20%7C%20UX%20Designer&descAlign=50&descSize=16" alt="Banner: Ananya Chandraker — MSc HCI @ UCD | AR/VR Dev | UX Designer" style="margin-bottom:40px;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justani02&label=Profile%20views&color=0e75b6&style=flat" alt="justani02" /> </p>
+<h3>Creating immersive experiences that bridge the digital and physical worlds.</h3>
 
-<p align="left"> <a href="https://twitter.com/just_ani02" target="blank"><img src="https://img.shields.io/twitter/follow/just_ani02?logo=twitter&style=for-the-badge" alt="just_ani02" /></a> </p>
-
-- 📖I'm currently pursuing **BTech degree in Information Technology**
-
-- 🌱 I’m currently learning **React**
-
-- 🔭 I’m currently working on **Blood-Organ Donation Management System**
-
-- 🤝 I’m looking for help with **getting an internship**
-
-- 💬 Ask me about **HTML, CSS, Adobe Photoshop, Adobe Illustrator**
-
-- 📫 How to reach me **ananyachandraker02@gmail.com**
-
-- ⚡ Fun fact **I am very blunt with my words, so be wise ;)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_ani02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-chandraker-45329322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-chandraker-45329322b/" height="30" width="40" /></a>
-<a href="https://instagram.com/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_ani02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ananyachandraker3790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ananyachandraker3790" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="just_ani02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="just_ani02" height="30" width="40" /></a>
+<p>
+<a href="https://www.linkedin.com/in/ananya-chandraker-45329322b/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ananyachandraker02@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justani02&show_icons=true&locale=en&layout=compact" alt="justani02" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justani02&show_icons=true&locale=en" alt="justani02" /></p>
+### 👩‍💻 The Transition: Code to Human-Centric Design
+
+I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Specialist** (MSc HCI). My background in engineering allows me to build what I design, ensuring that my AR/VR concepts are not just imaginative, but technically feasible.
+
+- 🎓 **Currently:** Pursuing **MSc in Human-Computer Interaction** at **University College Dublin**.
+- 🔭 **Working on:** Immersive VR environments and studying accessibility in XR.
+- 🌱 **Learning:** Advanced Interaction Design in **Unity** & **Unreal Engine 5**.
+- 💬 **Ask me about:** Prototyping, C#, User Research, and bridging the gap between Dev & Design.
+- ⚡ **Fun fact:** I treat code like a design tool—sometimes the best way to sketch an idea is with a script!
+
+---
+
+### 🛠️ The Toolkit
+
+<div align="center">
+
+**Spatial Computing & Design**
+<br>
+<img src="https://skillicons.dev/icons?i=unity,cs,figma,blender,ps,ai" alt="Spatial computing and design icons" />
+
+<br><br>
+
+**Web & Development Foundation**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,python,java,mysql,git" alt="Web and dev icons" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+<a href="https://github.com/justani-02" target="_blank" rel="noopener noreferrer">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=justani-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/justani-02" target="_blank" rel="noopener noreferrer">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justani-02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated illustration of immersive experiences" />
+</div>
+
+---
+
+## 🔭 About Me
+- 🔸 **Location:** Dublin, Ireland  
+- 🔸 **Currently:** MSc Human-Computer Interaction, University College Dublin  
+- 🔸 **Focus areas:** AR/VR development, Spatial UX, User research, Accessibility
+
+---
+
+## 🛠️ Skills
+- **Languages:** C#, JavaScript, Python
+- **AR/VR / 3D:** Unity, Unreal Engine, MRTK, ARCore, ARKit, Blender
+- **Design & Research:** Figma, Sketch, Prototyping, Wireframing, Usability Testing
+- **Other:** Git, UX Research Methods, Accessibility, Agile
+
+---
+
+
+## ✉️ Contact
+- Email: ananyachandraker02@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ananya-chandraker-45329322b/
 
 
