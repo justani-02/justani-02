@@ -33,23 +33,12 @@ I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Spec
 
 <div align="center">
 
-| **Spatial Computing & Design** | **Web & Development Foundation** |
-|------------------------------|----------------------------------|
-| <img src="https://skillicons.dev/icons?i=unity,blender,figma,ps,ai" /> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" /> |
-
-<br>
-
-| **Programming & Systems** | **Data Science & AI** |
-|--------------------------|----------------------|
-| <img src="https://skillicons.dev/icons?i=c,java,python,linux" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> |
-
-<br>
-
-| **Databases & Tools** |
-|----------------------|
-| <img src="https://skillicons.dev/icons?i=mysql,firebase" /> |
+| **🧠 Spatial & Design** | **🌐 Web & Development** | **⚙️ Data & Systems** |
+|------------------------|--------------------------|-----------------------|
+| <img src="https://skillicons.dev/icons?i=unity,blender,figma,ps,ai" /> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" /> | <img src="https://skillicons.dev/icons?i=python,java,c,linux,mysql,firebase,pytorch,tensorflow" /> |
 
 </div>
+
 ---
 
 ## 🔭 About Me
