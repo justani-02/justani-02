@@ -33,35 +33,34 @@ I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Spec
 
 <div align="center">
 
-**Spatial Computing & Design**
+**Spatial Computing & Design**  
 <br>
-<img src="https://skillicons.dev/icons?i=unity,cs,figma,blender,ps,ai" alt="Spatial computing and design icons" />
+<img src="https://skillicons.dev/icons?i=unity,blender,figma,ps,ai" alt="Spatial computing and design icons" />
 
 <br><br>
 
-**Web & Development Foundation**
+**Web & Development Foundation**  
 <br>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,python,java,mysql,git" alt="Web and dev icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" alt="Web and development icons" />
 
-</div>
+<br><br>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/justani-02" target="_blank" rel="noopener noreferrer">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=justani-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/justani-02" target="_blank" rel="noopener noreferrer">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justani-02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</a>
-</div>
-
+**Programming & Systems**  
 <br>
+<img src="https://skillicons.dev/icons?i=c,java,python,linux" alt="Programming and systems icons" />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated illustration of immersive experiences" />
+<br><br>
+
+**Data Science & AI**  
+<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Data science and AI icons" />
+
+<br><br>
+
+**Databases & Tools**  
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database and tools icons" />
+
 </div>
 
 ---
@@ -80,14 +79,6 @@ I have evolved from a **Web Developer** (BTech IT) to a **Spatial Computing Spec
 - **Other:** Git, UX Research Methods, Accessibility, Agile
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justani-02/justani-02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justani-02/justani-02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/justani-02/justani-02/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ## ✉️ Contact
 - Email: ananyachandraker02@gmail.com  
